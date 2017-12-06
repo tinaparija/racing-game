@@ -1,0 +1,29 @@
+body{
+	text-align: center; 
+	font-family: 'Roboto', sans-serif;
+	background-color: #e3e3e3;
+	width:100%;
+}
+
+h1{
+	margin: 60px auto;
+}
+
+.box{
+  border: 1px solid #9fa8a3;
+  height: 50px;
+  width: 50px;
+  display:inline-block;
+}
+
+#firstline{
+	margin-top: 50px;
+}
+
+#secondline{
+	margin-bottom: 50px;
+}
+
+.winner-box{
+	font-size: 40px;
+}
